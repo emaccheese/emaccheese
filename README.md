@@ -43,4 +43,4 @@ calibrated temperature over I2C and SPI.*
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/erik-macias) · Open to senior C++ roles in the US and Canada
+📫 [LinkedIn](https://linkedin.com/in/erik-macias) · Open to senior C++ roles in the US, Mexico, and Canada
